@@ -50,6 +50,8 @@ o  mediante script en las máquinas de la red a monitorizar.
 ## II. Reuniones realizadas (events)
 ## III. Documentos: 
 - link al backlog del equipo  -- no olvidar compartir con mctripiana@iesgrancapitan.org --
+
+https://docs.google.com/spreadsheets/d/1H57iP8QgF6ytKIaDdNk_TW7BqO98O0UlZZZcQFE9OzI/edit
+
 - Añadir (compartir en drive, link) cualquier otro documento que sea necesario
-           
-           
+  
