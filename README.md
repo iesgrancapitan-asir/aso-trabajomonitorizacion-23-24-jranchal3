@@ -54,4 +54,5 @@ o  mediante script en las máquinas de la red a monitorizar.
 https://docs.google.com/spreadsheets/d/1H57iP8QgF6ytKIaDdNk_TW7BqO98O0UlZZZcQFE9OzI/edit
 
 - Añadir (compartir en drive, link) cualquier otro documento que sea necesario
-  
+
+https://drive.google.com/file/d/1RDSwNm2TFxXFn1LTubakf_oRtlmb7ZsA/view?usp=sharing
